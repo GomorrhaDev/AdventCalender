@@ -1,0 +1,12 @@
+name: AdventCalendar
+version: '${project.version}'
+main: dev.gomorrha.adventcalendar.AdventCalendar
+api-version: 1.20
+prefix: AdventCalender
+authors: [ Gomorrha, BRONX ]
+description: Create a Advent Calender
+website: https://gomorrha.host
+commands:
+  adventcalender:
+    description: Opens the AdventCalender
+    aliases: [adventskalender]

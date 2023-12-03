@@ -1,0 +1,64 @@
+#You can use ChatColor/ChatFormat Codes from this site: https://htmlcolorcodes.com/bukkit-color-codes/
+TimeZone: "Europe/Berlin"
+AdventCalenderName: "Adventskalender"
+
+doorNames:
+  1: "&cTür 1"
+  2: "&cTür 2"
+  3: "&cTür 3"
+  4: "&cTür 4"
+  5: "&cTür 5"
+  6: "&cTür 6"
+  7: "&cTür 7"
+  8: "&cTür 8"
+  9: "&cTür 9"
+  10: "&cTür 10"
+  11: "&cTür 11"
+  12: "&cTür 12"
+  13: "&cTür 13"
+  14: "&cTür 14"
+  15: "&cTür 15"
+  16: "&cTür 16"
+  17: "&cTür 17"
+  18: "&cTür 18"
+  19: "&cTür 19"
+  20: "&cTür 20"
+  21: "&cTür 21"
+  22: "&cTür 22"
+  23: "&cTür 23"
+  24: "&cTür 24"
+
+
+
+#Custom: sendToPlayer
+#Placeholders: %player%
+actions:
+  1:
+    - "sendToPlayer You opened the advent calendar day 1, let's see what's inside..."
+    - "give %player% minecraft:diamond 16"
+    - "sendToPlayer You have received 16 diamonds."
+    - "say %player% has opened the advent calendar"
+  2:
+  3:
+
+  4:
+  5:
+  6:
+  7:
+  8:
+  9:
+  10:
+  11:
+  12:
+  13:
+  14:
+  15:
+  16:
+  17:
+  18:
+  19:
+  20:
+  21:
+  22:
+  23:
+  24:
