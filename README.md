@@ -7,4 +7,4 @@ For Questions contact:
 <br>
 <code>gmrrh</code> on discord
 <br>
-<code>gutz@gomorrha.dev</code> via E-Mail
+<code>gutz@mine-server.org</code> via E-Mail
